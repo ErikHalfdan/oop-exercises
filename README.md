@@ -9,5 +9,8 @@ Nyttige links:
 
 ## Eksempel formatering:
 
-1. *italics* text.
-2. **bold** text.
+1. *Italics* text.
+2. **Bold** text.
+=======
+1. *Kursiv* fremhævning.
+2. **Fed** fremhævning.
