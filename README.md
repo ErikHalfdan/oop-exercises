@@ -8,5 +8,5 @@ Nyttige links:
 
 ## Eksempel formatering:
 
-1.*Kursiv*tekst.
+1. *Kursiv* tekst.
 2. **Fed** tekst.
