@@ -9,7 +9,5 @@ Nyttige links:
 
 ## Eksempel formatering:
 
-1. *Italics* text.
-2. **Bold** text.
-3. *Kursiv* fremhævning.
-4. **Fed** fremhævning.
+1. *Italics* revenge.
+2. **Bold** revenge.
