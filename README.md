@@ -11,6 +11,5 @@ Nyttige links:
 
 1. *Italics* text.
 2. **Bold** text.
-
-1. *Kursiv* fremhævning.
-2. **Fed** fremhævning.
+3. *Kursiv* fremhævning.
+4. **Fed** fremhævning.
