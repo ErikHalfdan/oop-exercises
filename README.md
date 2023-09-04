@@ -9,5 +9,5 @@ Nyttige links:
 
 ## Eksempel formatering:
 
-1. *Italics* revenge.
-2. **Bold** revenge.
+1. *Italics* highlight.
+2. **Bold** highlight.
